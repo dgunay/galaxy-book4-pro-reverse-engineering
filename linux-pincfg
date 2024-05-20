@@ -1,0 +1,15 @@
+# I don't really remember what I was going for here, I think I was trying
+# to convert the linux drivers pin configuration into the windows
+# format before I realized it wasn't necessary
+
+Wid=12  Codec=411111F0  Drv=411111F0  Loc=00000000
+Wid=13  Codec=40000000  Drv=40000000  Loc=00000000
+Wid=14  Codec=411111F0  Drv=411111F0  Loc=00000000
+Wid=17  Codec=90170110  Drv=90170110  Loc=00000000
+Wid=18  Codec=04A11020  Drv=04A11020  Loc=00020200
+Wid=19  Codec=411111F0  Drv=411111F0  Loc=00000000
+Wid=1A  Codec=411111F0  Drv=411111F0  Loc=00020400
+Wid=1D  Codec=40630245  Drv=40630245  Loc=00000000
+Wid=1E  Codec=411111F0  Drv=411111F0  Loc=00000700
+Wid=1F  Codec=411111F0  Drv=411111F0  Loc=00000800
+Wid=21  Codec=04211050  Drv=04211050  Loc=00020200
